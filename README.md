@@ -8,14 +8,9 @@ I've been working as a front-end developer for more than a decade now. I love te
 
 * 🖥️  See my portfolio at [mojtabaseyedi.com/portfolio](http://mojtabaseyedi.com/portfolio/)
 * ✉️  You can contact me at [seyedmojtabaseyedi@gmail.com](mailto:seyedmojtabaseyedi@gmail.com)
-* 🚀  I'm currently working on [bejamas.io/blog](http://bejamas.io/blog)
-* 🧠  I'm learning new JS frameworks like Astro, Sveltekit, Qwik, Fresh
+* 🚀  I'm currently working at [bejamas.io](http://bejamas.io/)
+* 🧠  I'm researching on new JS frameworks like Astro, Sveltekit, Qwik, Fresh, etc.
 * ⚡  I worte more than 35 articles on CSS-Tricks.com
-
-<a href="https://www.github.com/seyedi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/seyedi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/mojtabaseyedi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mojtabaseyedi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
